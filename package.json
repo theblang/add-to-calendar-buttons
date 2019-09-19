@@ -1,0 +1,22 @@
+{
+  "name": "ouical2",
+  "version": "0.0.1",
+  "description": "A simple JS library that enables you to add an \"add to calendar\" button for your upcoming events.",
+  "main": "ouical2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theblang/add-to-calendar-buttons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theblang/add-to-calendar-buttons/issues"
+  },
+  "homepage": "https://github.com/theblang/add-to-calendar-buttons#readme",
+  "devDependencies": {
+    "prettier": "1.18.2"
+  }
+}
